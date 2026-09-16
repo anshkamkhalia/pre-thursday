@@ -1,0 +1,5 @@
+float32 current_battery_pct
+---
+bool success
+---
+float32 ongoing_battery_pct
